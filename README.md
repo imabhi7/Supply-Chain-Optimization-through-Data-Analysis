@@ -48,7 +48,3 @@ This project uses data analysis techniques, visualization, and recommendation sy
 ## Conclusion
 
 By using data analysis and visualization, this project aims to provide actionable insights into supply chain performance, customer behavior, and product trends. The findings can help businesses make informed decisions to improve their operations and achieve sustainable growth.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
